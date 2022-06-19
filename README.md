@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-## This is mainly a Crypto tracking app that gives us all the data, which is fetched using the Coingeko API
 
-[Click to view](https://gulshan-crypto-778e17.netlify.app/)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
